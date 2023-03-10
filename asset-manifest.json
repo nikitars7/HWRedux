@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HWRedux/static/css/main.e6c13ad2.css",
+    "main.js": "/HWRedux/static/js/main.6c49b62b.js",
+    "index.html": "/HWRedux/index.html",
+    "main.e6c13ad2.css.map": "/HWRedux/static/css/main.e6c13ad2.css.map",
+    "main.6c49b62b.js.map": "/HWRedux/static/js/main.6c49b62b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6c49b62b.js"
+  ]
+}
